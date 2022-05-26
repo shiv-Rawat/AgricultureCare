@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AgricultureCare/static/css/main.5b9c502d.css",
+    "main.js": "/AgricultureCare/static/js/main.7bb72402.js",
+    "static/js/787.9d08eba2.chunk.js": "/AgricultureCare/static/js/787.9d08eba2.chunk.js",
+    "index.html": "/AgricultureCare/index.html",
+    "main.5b9c502d.css.map": "/AgricultureCare/static/css/main.5b9c502d.css.map",
+    "main.7bb72402.js.map": "/AgricultureCare/static/js/main.7bb72402.js.map",
+    "787.9d08eba2.chunk.js.map": "/AgricultureCare/static/js/787.9d08eba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9c502d.css",
+    "static/js/main.7bb72402.js"
+  ]
+}
